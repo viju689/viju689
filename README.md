@@ -4,9 +4,13 @@ Hello! I'm a **flexible professional** with a strong foundation in **Python prog
 
 🔧 I have hands-on experience with a wide range of tools and technologies that help me build efficient, reliable, and scalable systems.
 
-![DevOps Infographic](https://i.imgur.com/exampleimage.png)  <!-- Replace with the actual URL of your image -->
+<p align="center">
+   <img src="https://e0.pxfuel.com/wallpapers/944/937/desktop-wallpaper-integrated-devops-toolchain-dev-ops-devops-cartoon.jpg" width="400" height="200" />
+</p>
+<!-- Replace with the actual URL of your image -->
 
 ---
+
 # 🛠️ Tech Stack
 
 | **💻 Programming Languages**                                                                                                 | **🌐 Cloud & DevOps**                                                                                         | **🖥️ Operating Systems**                                                | **📦 Database Systems**                                               | **🔧 Infrastructure & DevOps Tools**                                                                                  | **🛠️ Other Expertise**                                |
