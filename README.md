@@ -20,7 +20,6 @@
 |                                                                                                                             |                                                                                                               |                                                                         |                                                                        | ![AWS VPC](https://img.shields.io/badge/aws_vpc-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   |                                                        |
 |                                                                                                                             |                                                                                                               |                                                                         |                                                                        | ![AWS IAM](https://img.shields.io/badge/aws_iam-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)   |                                                        |
 
-
 ---
 
 ## 📜 Certifications
@@ -39,13 +38,13 @@ I am passionate about **automation**, **scalable infrastructure**, and building 
 
 ---
 
-## 🔗 Let’s Connect
+## 🔗 Connect with Me
 
-Feel free to reach out if you'd like to collaborate or discuss cloud solutions, automation, or DevOps best practices! 
-
-- 💼 [LinkedIn](http://www.linkedin.com/in/vijay-mankape-v9269242a/) 
-- 📧 Email: vijaymankape85@gmail.com
-- 🐦 [Twitter](https://x.com/vijayMankape)
+<p align="left">
+   <a href="http://www.linkedin.com/in/vijay-mankape-v9269242a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="20" /></a>
+   <a href="mailto:vijaymankape85@gmail.com"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email Me" height="17" width="23" /></a>
+   <a href="https://x.com/vijayMankape?t=IO4jfBimfg6qEC-n50idjw&s=09" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Twitter_Logo_2012.svg" alt="Twitter" height="20" width="20" /></a>
+</p>
 
 ---
 
