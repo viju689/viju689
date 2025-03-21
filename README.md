@@ -1,9 +1,5 @@
 # ♾️ DevOps Engineer & Python Developer
 
-Hello! I'm a **flexible professional** with a strong foundation in **Python programming**, **cloud computing**, and **DevOps practices**. I specialize in managing infrastructure, ensuring secure and scalable deployments, and automating processes to enhance team productivity.
-
-🔧 I have hands-on experience with a wide range of tools and technologies that help me build efficient, reliable, and scalable systems.
-
 <p align="center">
    <img src="https://e0.pxfuel.com/wallpapers/944/937/desktop-wallpaper-integrated-devops-toolchain-dev-ops-devops-cartoon.jpg" width="400" height="200" />
 </p>
