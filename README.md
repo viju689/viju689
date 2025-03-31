@@ -1,10 +1,11 @@
-
-<h1 align="center">♾️ DevOps Engineer | Python Developer</h1>
+<h1 align="center">
+♾️ DevOps Engineer | Python Developer
+</h1>
 
 <p align="center">
-   <img src="https://e0.pxfuel.com/wallpapers/944/937/desktop-wallpaper-integrated-devops-toolchain-dev-ops-devops-cartoon.jpg" width="400" height="200" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzkydjRidHVxZW16a2pmd2diczBhcGIyaGxncGh2c2l0MnFyaWtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lDDbtArVOHPrERDf2/giphy.gif" width="200">
 </p>
-<!-- Replace with the actual URL of your image -->
+
 
 ---
 
